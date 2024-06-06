@@ -22,4 +22,4 @@
 
 | ![Akshay Nayani GitHub Statistics](https://github-readme-stats.vercel.app/api?username=aknayani1865&show_icons=true&theme=tokyonight&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aknayani1865&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact) |
 | --- | --- |
-| ![Akshay Nayani GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aknayani1865&theme=dark) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+| ![Akshay Nayani GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aknayani1865&theme=dark) | 
