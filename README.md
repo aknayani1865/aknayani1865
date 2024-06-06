@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshay Nayani</h1>
-<h5 align="center">I am a full-stack software engineer and entrepreneur with experience in large-scale web applications and back-end systems, using a variety of coding languages, frameworks, and technologies. I am self-motivated and passionate about programming, from designing system architecture to diving deep into frameworks and problem solving.
+<p align="left">
+I am a full-stack software engineer and entrepreneur with experience in large-scale web applications and back-end systems, using a variety of coding languages, frameworks, and technologies. I am self-motivated and passionate about programming, from designing system architecture to diving deep into frameworks and problem solving.
 
-In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.</h5>
+In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aknayani1865&label=Profile%20views&color=0e75b6&style=flat" alt="aknayani1865" /> </p>
