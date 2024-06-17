@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Nayani</h1>
 <p align="left">
-I am a full-stack software engineer and entrepreneur with experience in large-scale web applications and back-end systems, using a variety of coding languages, frameworks, and technologies. I am self-motivated and passionate about programming, from designing system architecture to diving deep into frameworks and problem solving.
+I am a full-stack software engineer and experience in web applications and back-end systems, using a variety of coding languages, frameworks, and technologies. I am self-motivated and passionate about programming, from designing system architecture to diving deep into frameworks and problem solving.
 
 In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
 </p>
