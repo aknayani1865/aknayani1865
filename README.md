@@ -8,7 +8,7 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aknayani1865&label=Profile%20views&color=0e75b6&style=flat" alt="aknayani1865" /> </p>
 
-- 🌱 I’m currently learning **Asp .Net**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [aknayani.com](aknayani.com)
 
